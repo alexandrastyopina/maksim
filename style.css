@@ -38,7 +38,7 @@ h1{
     -webkit-text-fill-color: transparent;
     text-align: center;
 }
-p {
+.sites {
     font-size: 17px;
      background: linear-gradient(to right,red,orange,yellow);
     -webkit-background-clip: text;
