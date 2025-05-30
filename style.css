@@ -38,7 +38,7 @@ h1{
     -webkit-text-fill-color: transparent;
     text-align: center;
 }
-.sites {
+.sites p{
     font-size: 17px;
      background: linear-gradient(to right,red,orange,yellow);
     -webkit-background-clip: text;
@@ -66,10 +66,4 @@ nav{
     font-size: 15px;
 }
 
-p{
-    font-size: 20px;
-    background: linear-gradient(to right,#1B1BB3,#0B61A4,#530FAD);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
 
